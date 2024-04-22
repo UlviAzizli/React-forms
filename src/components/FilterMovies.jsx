@@ -1,5 +1,3 @@
-// src/components/FilterMovies.jsx
-
 import { useState } from "react";
 
 function FilterMovies(props) {

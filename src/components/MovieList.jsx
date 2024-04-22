@@ -1,5 +1,3 @@
-// src/components/MovieList.jsx
-
 import { useState } from "react";
 import moviesDataJSON from "../movies-data.json";
 import MovieCard from "./MovieCard";
